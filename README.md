@@ -1,2 +1,2 @@
 # duckweed-robot-controller
-Code mobile devices that will be used to control the robot.
+Code for mobile devices that will be used to control the robot.
